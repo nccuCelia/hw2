@@ -1,0 +1,20 @@
+h1{
+	margin-right: auto;
+	margin-right: auto;
+	text-align: center;
+	font-style: sans-serif;
+}
+p{
+	margin-right: auto;
+	margin-right: auto;
+	font-size: 120%;
+}
+i em{
+	font-weight: bold;
+	color: blue;
+}
+img{
+	width: 30%;
+	height: 30%;
+	float: right;
+}
